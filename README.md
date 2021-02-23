@@ -1,6 +1,6 @@
 ### Hi there, I'm Dzhem Idrizov :wave:
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=idrizovdjem) Glad you are here
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=idrizovdjem) ### Glad you are here
 
 I am junior full-stack developer. I love programming and learning new things.\
 Some of my favourite technologies are:
