@@ -8,6 +8,7 @@ Some of my favourite technologies are:
   * :green_heart: Node.js
   * React.js/Angular
   * SQL and NoSQL databases(MSSQL and Mongo)
+  * Entity Framework Core
   
 Web development is really what excites me. :sunglasses:\
 Currently learning **JS Advanced** on https://softuni.bg/
