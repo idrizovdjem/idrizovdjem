@@ -2,7 +2,8 @@
 
 ### Glad you are here ![visitors](https://visitor-badge.laobi.icu/badge?page_id=idrizovdjem)
 
-I am junior full-stack developer. I love programming and learning new things.  Some of my favourite technologies are:
+I am junior full-stack developer. I love programming and learning new things.\
+Some of my favourite technologies are:
   * ASP.NET Core
   * Node.js
   * React.js/Angular
