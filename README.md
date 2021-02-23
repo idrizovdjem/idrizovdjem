@@ -11,7 +11,7 @@ Some of my favourite technologies are:
   
 Web development is really what excites me. :sunglasses:\
 Currently learning 
-#JS Advanced
+# JS Advanced
 on softuni.bg
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idrizovdjem&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
