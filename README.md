@@ -4,8 +4,8 @@
 
 I am junior full-stack developer. I love programming and learning new things.\
 Some of my favourite technologies are:
-  * ASP.NET Core :sparkling_heart:
-  * Node.js :green_heart:
+  * :sparkling_heart: ASP.NET Core
+  * :green_heart: Node.js
   * React.js/Angular
   * SQL and NoSQL databases(MSSQL and Mongo)
   
