@@ -23,5 +23,3 @@ Technologies I use:
 
 Web development is really what excites me. :sunglasses:\
 ```If you want to make the world a better place, why don’t you get the original source code?```
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrizovdjem&theme=dark" />
